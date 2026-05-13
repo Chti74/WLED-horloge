@@ -17,7 +17,7 @@ A fast and feature-rich implementation of an ESP32 and ESP8266 webserver to cont
 Originally created by [Aircoookie](https://github.com/Aircoookie)
 
 ## ⚙️ Features
-- WS2812FX library with more than 100 special effects  
+- WS2812FX library with more than 100 special effects      
 - FastLED noise effects and 50 palettes  
 - Modern UI with color, effect and segment controls  
 - Segments to set different effects and colors to user defined parts of the LED string  
